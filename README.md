@@ -8,4 +8,4 @@ framework used - Bootstrap.
 
 live demonstration - https://s-unny2001.github.io/Car_rental_system.github.io/
 
-Sorry guys theres a little issue with the code that I'll fix soon. :)
+This is just a demo of how the car rental user interface works and looks like. :)
